@@ -8,4 +8,4 @@ if you don't have Nmap or Whois please install
 All scan result writed to folder directory
 
 
-<img src="Site_scan.gif" width="700"/>
+<img src="Website_scanner.gif" width="700"/>
